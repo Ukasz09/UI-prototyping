@@ -14,11 +14,10 @@ Prototype of UI for iOS app _Quiz Game_
 ![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/result-1-correct.png)
 ![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/result-partial-win.png)
 ![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/result-win.png)
-📫
 
 ---
 
-### Contact
+### 📫 Contact
 
 | Created by                                                                                                                                       | gajerski.lukasz@gmail.com        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
