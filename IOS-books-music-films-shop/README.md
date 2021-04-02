@@ -6,12 +6,12 @@ Prototype of UI for iOS app *Books-Music-Films Shop*
 
 ### Demo
 
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/IOS-books-music-films-shop/master/export/menu.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/IOS-books-music-films-shop/master/export/music.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/IOS-books-music-films-shop/master/export/music-preview-played-1.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/IOS-books-music-films-shop/master/export/movies-details.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/IOS-books-music-films-shop/master/export/trailer-preview.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/IOS-books-music-films-shop/master/export/book-details.png)
+![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-books-music-films-shop/export/menu.png)
+![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-books-music-films-shop/export/music.png)
+![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-books-music-films-shop/export/music-preview-played-1.png)
+![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-books-music-films-shop/export/movies-details.png)
+![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-books-music-films-shop/export/trailer-preview.png)
+![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-books-music-films-shop/export/book-details.png)
 
 ---
 
