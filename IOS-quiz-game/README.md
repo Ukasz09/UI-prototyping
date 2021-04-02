@@ -2,20 +2,20 @@
 
 ### Description
 
-Prototype of UI for iOS app *Quiz Game* 
-
+Prototype of UI for iOS app _Quiz Game_
 
 ### Demo
 
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/start-page.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/animals-question-1.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/animals-question-2-result.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/music-question-3.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/quotes-question-1.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/result-1-correct.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/result-partial-win.png)
-![](https://raw.githubusercontent.com/Ukasz09/UI-prototyping/master/IOS-quiz-game/export/result-win.png)
- 📫
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/start-page.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/animals-question-1.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/animals-question-2-result.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/music-question-3.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/quotes-question-1.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/result-1-correct.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/result-partial-win.png)
+![](https://github.com/Ukasz09/UI-prototyping/blob/master/IOS-quiz-game/export/result-win.png)
+📫
+
 ---
 
 ### Contact
