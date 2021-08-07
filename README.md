@@ -4,8 +4,8 @@
 
 UI mockups
 
-- [Books-music-films Shop](https://github.com/Ukasz09/UI-prototyping/tree/master/IOS-books-music-films-shop)
-- [Guiz game](https://github.com/Ukasz09/UI-prototyping/tree/master/IOS-quiz-game)
+- [Books music films Shop](https://github.com/Ukasz09/UI-prototyping/tree/master/IOS-books-music-films-shop)
+- [Quiz Game](https://github.com/Ukasz09/UI-prototyping/tree/master/IOS-quiz-game)
 
 ---
 
